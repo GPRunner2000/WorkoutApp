@@ -31,6 +31,7 @@
             android:elevation="8dp"
             android:text="@string/create_account"
             android:visibility="visible"
+            android:onClick="navigateToMenu"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
