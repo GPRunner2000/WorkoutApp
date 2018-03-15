@@ -27,4 +27,20 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <!--string resources for WorkoutDiary -->>
+    <string name="activity_name">Workout Diary</string>
+    <string name="title_search">Search</string>
+    <string name="title_view_stats">View Stats</string>
+    <string name="title_new_entry">New Entry</string>
+    <string name="text_past_entries">This is where all past workout entries will go.</string>
+    <string name="text_search">This is for searching.</string>
+    <string name="text_view_stats">This is for viewing statistics.</string>
+    <string name="text_new_entry">This is for new entries.</string>
+    <string name="drawer_title">Main Menu</string>
+    <string name="drawer_title_routines">Routines</string>
+    <string name="drawer_title_stats">User Statistics</string>
+    <string name="drawer_title_motivation">Motivation</string>
+    <string name="drawer_title_settings">Settings</string>
+    <string name="toMainMenu">Go to Main</string>
 </resources>
